@@ -1,0 +1,42 @@
+.genreTag {
+  padding:4px 8px;
+  border: 1px solid #ffcdcd;
+  margin: 4px;
+  color: #ffcdcd;
+  font-family: kallisto thin;
+}
+
+.songContainer{
+  background: #ff66cc;
+  border-radius: 600px;
+  padding: 20px 20px;
+  line-height: 30px;
+  margin:8px;
+  margin-left: 400px;
+  margin-right: 400px;
+  color: #ffc505;
+}
+body {
+	text-align: center;
+	font-style: normal;
+	font-weight: 300;
+	background: #04d1ca;
+	font-family: changeling-neo, sans-serif;
+}
+p {
+	font-family: roc grotesk, bold;
+}
+h1 {
+	font-family: 'Audiowide', cursive;
+	font-size: 5rem;
+	margin-top: 20px;
+	color: #ffcc61;
+}
+button {
+	color: #ff66cc;
+	border: white;
+	margin-bottom: 20px;
+	background-color: #ffcdcd;
+	font-family: kallisto thin;
+
+}
